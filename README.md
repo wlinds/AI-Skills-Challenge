@@ -17,4 +17,8 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 - Deep Learning
 - Azure Machine Learning
 
+### [02: Funamental Azure AI Services](<Azure AI Fundamentals/02_fundamental_azure_ai_services.ipynb>)
+- Resources
+- Keys, Endpoints & APIs
+
 
