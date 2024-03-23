@@ -9,7 +9,7 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 - Responsible AI
 - Azure implementations
 
-### [01: Fundamentals of ML](<Azure AI Fundamentals/01_fundamentals_of_ml.ipynb>)
+### [01: Machine Learning](<Azure AI Fundamentals/01_fundamentals_of_ml.ipynb>)
 - Machine Learning as a function
 - Supervised & Unsupervised ML
 - Regression, binary classification, multiclass, clustering
@@ -17,8 +17,6 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 - Deep Learning
 - Azure Machine Learning
 
-### [02: Funamental Azure AI Services](<Azure AI Fundamentals/02_fundamental_azure_ai_services.ipynb>)
+### [02: Azure AI Services](<Azure AI Fundamentals/02_fundamental_azure_ai_services.ipynb>)
 - Resources
 - Keys, Endpoints & APIs
-
-
