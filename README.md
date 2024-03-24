@@ -26,3 +26,9 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 - Laplace filters
 - Introduction: CNNs, Transformers & Multi-modal Models
 - Azure AI Vision: OCR, Image classification, Object detection
+
+### [04: Facial Recognition](<Azure AI Fundamentals/04_facial_recognition.ipynb>)
+- Face Detection & Face Analysis
+- Responsible AI Use
+- Face Service
+- Tips for more accurate results
