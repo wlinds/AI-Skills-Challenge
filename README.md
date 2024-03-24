@@ -20,3 +20,9 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 ### [02: Azure AI Services](<Azure AI Fundamentals/02_fundamental_azure_ai_services.ipynb>)
 - Resources
 - Keys, Endpoints & APIs
+
+### [03: Computer Vision](<Azure AI Fundamentals/03_computer_vision.ipynb>)
+- Images & Pixel Processing
+- Laplace filters
+- Introduction: CNNs, Transformers & Multi-modal Models
+- Azure AI Vision: OCR, Image classification, Object detection
