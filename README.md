@@ -32,3 +32,8 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 - Responsible AI Use
 - Face Service
 - Tips for more accurate results
+
+### [05: OCR](<Azure AI Fundamentals/05_OCR.ipynb>)
+- Uses of OCR
+- Azure AI Vision's OSCR Engine (Read API):
+    - Images, PDFs TIFFs
