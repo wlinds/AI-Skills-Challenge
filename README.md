@@ -37,3 +37,16 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 - Uses of OCR
 - Azure AI Vision's OSCR Engine (Read API):
     - Images, PDFs TIFFs
+
+### [06: Text Analysis](<Azure AI Fundamentals/06_text_analysis.ipynb>)
+- Tokenization
+    - Normalization
+    - Stopwords
+    - n-grams
+    - Stemming
+- Frequency Analysis
+- Sentiment Analysis
+- Semantic Language Models
+- Entity Recognition
+- Language Detection
+- Key Phrase Extraction
