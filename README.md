@@ -50,3 +50,7 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 - Entity Recognition
 - Language Detection
 - Key Phrase Extraction
+
+### [07: Question Answering](<Azure AI Fundamentals/07_question_answering.ipynb>)
+- Azure AI Language REST API
+- Microsoft Bot Framework SDK
