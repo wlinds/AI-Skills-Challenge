@@ -54,3 +54,7 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 ### [07: Question Answering](<Azure AI Fundamentals/07_question_answering.ipynb>)
 - Azure AI Language REST API
 - Microsoft Bot Framework SDK
+
+### [08: Conversational Language](<Azure AI Fundamentals/08_conversational_language.ipynb>)
+- Utterance, Entities, Intents
+- Authoring, Training, Predicting
