@@ -58,3 +58,7 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 ### [08: Conversational Language](<Azure AI Fundamentals/08_conversational_language.ipynb>)
 - Utterance, Entities, Intents
 - Authoring, Training, Predicting
+
+### [09: Azure AI Speech](<Azure AI Fundamentals/09_auzre_ai_speech.ipynb>)
+- Real-time transcription
+- Speech synthesis
