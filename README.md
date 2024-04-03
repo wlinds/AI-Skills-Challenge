@@ -62,3 +62,7 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 ### [09: Azure AI Speech](<Azure AI Fundamentals/09_auzre_ai_speech.ipynb>)
 - Real-time transcription
 - Speech synthesis
+
+### [10: Document Intelligence](<Azure AI Fundamentals/10_document_intelligence.ipynb>)
+- Text extraction
+- Prebuilt & Custom models
