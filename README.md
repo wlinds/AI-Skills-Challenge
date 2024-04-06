@@ -66,3 +66,9 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 ### [10: Document Intelligence](<Azure AI Fundamentals/10_document_intelligence.ipynb>)
 - Text extraction
 - Prebuilt & Custom models
+
+### [11: Azure AI Search](<Azure AI Fundamentals/11_azure_ai_search.ipynb>)
+- Knowledge mining
+- Automate data ingestion steps
+- JSON serialization
+- OData expression language
