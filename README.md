@@ -72,3 +72,21 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 - Automate data ingestion steps
 - JSON serialization
 - OData expression language
+
+### [12: Generative AI](<Azure AI Fundamentals/12_generative_ai.ipynb>)
+- Natural language (NLP)
+    - Determine eentiment & classifying
+    - Summarizing
+    - Comparing for semantic similarity
+    - Generating new natural language
+- Image generation
+- Code generation
+- Transformer models
+    - Encoders & Decoders
+    - Tokenization
+    - Embeddings
+    - Attention
+- Azure OpenAI
+- Microsoft Copilot
+- Prompt Engineering
+
