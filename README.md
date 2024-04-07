@@ -1,4 +1,4 @@
-# AI-Skills-Challenge
+# AI-Skills-Challenge-2024
 Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.com/)
 
 ## Azure AI Fundamentals
@@ -90,3 +90,9 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 - Microsoft Copilot
 - Prompt Engineering
 
+### [13: Azure OpenAI](<Azure AI Fundamentals/13_azure_openai.ipynb>)
+- OpenAI Models
+- Intro to OpenAI Service & Workloads
+- OpenAI Studio
+- GitHub Copilot
+- Microsoft AI principles
