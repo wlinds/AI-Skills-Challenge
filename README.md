@@ -96,3 +96,7 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 - OpenAI Studio
 - GitHub Copilot
 - Microsoft AI principles
+
+### [14: Responsible GenAI](<Azure AI Fundamentals/14_responsible_genai.ipynb>)
+- Identifying potential harms
+- Content filters
