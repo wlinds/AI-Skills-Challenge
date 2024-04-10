@@ -100,3 +100,13 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 ### [14: Responsible GenAI](<Azure AI Fundamentals/14_responsible_genai.ipynb>)
 - Identifying potential harms
 - Content filters
+
+### [15: Prepare to develop AI solutions](<Azure AI Fundamentals/15_prepare_to_dev_on_Azure.ipynb>)
+- AI-related terms & definitions
+- Responsible AI
+    - Fairness
+    - Reliability and safety
+    - Privacy and security
+    - Inclusiveness
+    - Transparency
+    - Accountability
