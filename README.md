@@ -110,3 +110,8 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
     - Inclusiveness
     - Transparency
     - Accountability
+
+### [Create & consume](<Azure AI Fundamentals/15_create_consume.ipynb>)
+- Options for Azure resources
+- Rest API
+- SDK
