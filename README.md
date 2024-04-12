@@ -111,7 +111,14 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
     - Transparency
     - Accountability
 
-### [Create & consume](<Azure AI Fundamentals/15_create_consume.ipynb>)
+### [16: Create & consume AI services](<Azure AI Fundamentals/16_create_consume.ipynb>)
 - Options for Azure resources
 - Rest API
 - SDK
+
+### [17: Secure Azure AI services](<Azure AI Fundamentals/17_secure_azure.ipynb>)
+- Authentication & Security
+- Azure Key Vault
+- Entra ID
+- Service principal
+- Managed identities
