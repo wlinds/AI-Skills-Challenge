@@ -122,3 +122,8 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 - Entra ID
 - Service principal
 - Managed identities
+
+### [18: Monitor Services](<Azure AI Fundamentals/18_monitor.ipynb>)
+- Metrics & Alerts
+- Azure Event Hub
+- Azure log analytics
