@@ -127,3 +127,6 @@ Part of AI Skills Challenge through [LearnMicrosoftAI](https://learn.microsoft.c
 - Metrics & Alerts
 - Azure Event Hub
 - Azure log analytics
+
+### [19: Deploy Azure AI services in containers](<Azure AI Fundamentals/19_deployment.ipynb>)
+- Containerization
